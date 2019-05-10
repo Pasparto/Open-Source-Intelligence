@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Information Gathering Tool
 description: Python project for gather information with email and full name on social media, forums, law enforcement etc.
