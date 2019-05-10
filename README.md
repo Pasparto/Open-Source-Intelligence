@@ -1,2 +1,2 @@
 #	Information Gathering Tool 
-Dedicated website for the HR department to gather information about candidates on social media, forums, law enforcement etc.
+Python project for gather information with email and full name on social media, forums, law enforcement etc.
