@@ -1,2 +1,2 @@
-# web-scrapper
+#	Information Gathering Tool 
 Open-source intelligence scrapper
