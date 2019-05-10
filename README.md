@@ -1,5 +1,5 @@
-#	Information Gathering Tool 
-Python project for gathering information using email and full name on:
+#	Open-Source Intelligence Project
+Python project for gathering information using email and full name from open sources like:
 * Facebook 
 * Instagram 
 * Youtube 
